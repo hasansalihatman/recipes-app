@@ -33,7 +33,7 @@ export default function Navigator() {
       <Stack.Screen
         name="MealsOverview"
         component={MealsOverviewScreen}
-        //! bunlar yontem de alternatifdir
+        //! There are alternatives here
         // options={({ route, navigation }) => {
         //   const categoryId = route.params.categoryId;
         //   return{
